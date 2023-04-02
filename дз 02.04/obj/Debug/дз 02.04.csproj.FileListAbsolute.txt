@@ -1,0 +1,8 @@
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 02.04\дз 02.04\bin\Debug\дз 02.04.exe.config
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 02.04\дз 02.04\bin\Debug\дз 02.04.exe
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 02.04\дз 02.04\bin\Debug\дз 02.04.pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 02.04\дз 02.04\obj\Debug\дз 02.04.csproj.AssemblyReference.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 02.04\дз 02.04\obj\Debug\дз 02.04.csproj.SuggestedBindingRedirects.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 02.04\дз 02.04\obj\Debug\дз 02.04.csproj.CoreCompileInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 02.04\дз 02.04\obj\Debug\дз 02.04.exe
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 02.04\дз 02.04\obj\Debug\дз 02.04.pdb
